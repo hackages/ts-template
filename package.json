@@ -1,0 +1,26 @@
+{
+  "name": "hackages-ts-template",
+  "version": "0.0.1",
+  "description": "TypeScript template",
+  "type": "module",
+  "scripts": {
+    "test": "npm i && vitest run"
+  },
+  "keywords": [
+    "hackages",
+    "typescript",
+    "vitest",
+    "testing"
+  ],
+  "author": "007@hackages.com",
+  "license": "MIT",
+  "dependencies": {
+    "vitest": "^3.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.0.0"
+  }
+}
