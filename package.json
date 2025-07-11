@@ -4,7 +4,8 @@
   "description": "TypeScript template",
   "type": "module",
   "scripts": {
-    "test": "npm i && vitest run"
+    "test": "npm i && vitest run",
+    "review": "npx hackages review"
   },
   "keywords": [
     "hackages",
