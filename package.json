@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "test": "npm i && vitest run",
+    "test:w": "npm i && vitest",
     "review": "npx hackages review"
   },
   "keywords": [
